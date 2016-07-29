@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JAMME</string>
+    <string name="title_activity_home">Map</string>
+    <string name="title_activity_detail_event">Map</string>
+    <string name="post_event_title">Đăng sự kiện</string>
+    <string name="post_event_edit_hint">Mô tả của bạn</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+   <string name="hint_search">Tìm kiếm</string>
+
+</resources>
